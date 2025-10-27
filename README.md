@@ -1,7 +1,5 @@
 # TEACh
-[Task-driven Embodied Agents that Chat](https://arxiv.org/abs/2110.00534)
 
-Aishwarya Padmakumar*, Jesse Thomason*, Ayush Shrivastava, Patrick Lange, Anjali Narayan-Chen, Spandana Gella, Robinson Piramuthu, Gokhan Tur, Dilek Hakkani-Tur
 
 TEACh is a dataset of human-human interactive dialogues to complete tasks in a simulated household environment. 
 The code and model weights are licensed under the MIT License (see SOFTWARELICENSE), images are licensed under Apache 2.0 
@@ -422,13 +420,6 @@ Some additional notes:
 5. Alexa Prize SimBot Challenge Participants please refer to challenge rules regarding publications.
 
 
-## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-The code is licensed under the MIT License (see SOFTWARELICENSE), images are licensed under Apache 2.0 
-(see IMAGESLICENSE) and other data files are licensed under CDLA-Sharing 1.0 (see DATALICENSE).
 
 
